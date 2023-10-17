@@ -1,0 +1,2 @@
+#!/bin/bash
+apy-get install -y apache2
